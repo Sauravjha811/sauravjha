@@ -1,0 +1,32 @@
+.circle {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    float:left;
+    margin-right: 50px;
+}
+#circle {
+    background-color: #196F3D;
+}
+
+.rounded {
+    width: 130px;
+    height: 130px;
+    border-radius: 25%;
+    float:left;
+    margin-right: 50px;
+}
+#rounded {
+    background-color: #5DADE2;
+}   
+
+.square {
+    width: 130px;
+    height: 130px;
+    border-radius: 0%;
+    float:left;
+    margin-right:50%;
+}
+#square {
+    background-color: #58D68D;
+}
